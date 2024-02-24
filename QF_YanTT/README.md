@@ -1,9 +1,6 @@
 # QTframework®YanTT
 ## 项目介绍
-<<<<<<< HEAD
-<div>QTframework®YanTT, an easily extensible quantitative finance framework, integrates a complete workflow for quantitative investment research in its current version, including data collection, factor computation, factor mining, factor analysis, machine learning, strategy development, and quantitative backtesting.</div>
-<br/>
-QTframework®YanTT，一个易于拓展的量化金融框架继承自FinHack@，它在当前版本中集成了<B>数据采集、因子计算、因子挖掘、因子分析、机器学习、策略编写、量化回测</B>等全流程的量化投研工作，包括数据源、交易品种与分析工具。
+
 =======
 <div>QTframework®YanTT, an easily extensible quantitative finance framework, integrates a complete workflow for quantitative investment research in its current version, including data collection, factor computation, factor mining, factor analysis, machine learning, strategy development, and quantitative backtesting. </div>
 <br/>
